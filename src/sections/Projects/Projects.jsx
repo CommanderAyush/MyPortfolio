@@ -18,14 +18,14 @@ function Projects() {
         <ProjectCard
           src={SnakeMania}
           link="https://snake-game-git-main-ayush-agrawals-projects-4b39b471.vercel.app/"
-          h3="WeekEnd Buddy"
-          p="Good Old Snake Game"
+          h3="Snake Mania "
+          p="Find Movies of Your Choice"
         />
         <ProjectCard
           src={WeekEndBuddy}
           link="https://week-end-buddy-hqty.vercel.app/"
-          h3="Snake Mania"
-          p="An Application To Find Movies"
+          h3="WeekEnd Buddy"
+          p="Good Old Snake Game"
         />
       </div>
     </section>
