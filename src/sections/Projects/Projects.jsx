@@ -11,7 +11,7 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={SocialSphere}
-          link="https://github.com/CommanderAyush/SocialSphere"
+          link="https://social-sphere-uzoa.onrender.com"
           h3="SocialSphere"
           p="Chat Application"
         />
